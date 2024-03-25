@@ -56,18 +56,10 @@
 <img src="https://github.com/Gregdev22/Missao-3-Mundo-4/blob/main/Microatividades/ListaDeTarefas/MA%2053.png" alt="resultado 1" width="640" height="360">
 
 <br>
-:triangular_flag_on_post: Explore Mundo App: 
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/MP%201.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Home%201.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Home%202.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Home%203.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Contatos.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Sobrenos.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Destino%201.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Destino%202.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Pesquisa%201.png" alt="resultado 1" width="640" height="360">
-<img src="https://github.com/Gregdev22/Missao-2-Mundo-4/blob/main/explore_mundov2/images/Pesquisa%202.png" alt="resultado 1" width="640" height="360">
-<img src="" alt="resultado 1" width="640" height="360">
+:triangular_flag_on_post: Doma : 
+<img src="https://github.com/Gregdev22/Missao-3-Mundo-4/blob/main/Miss%C3%A3o%20Pr%C3%A1tica/Doma/MP%201.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-3-Mundo-4/blob/main/Miss%C3%A3o%20Pr%C3%A1tica/Doma/MP%202.png" alt="resultado 1" width="640" height="360">
+<img src="https://github.com/Gregdev22/Missao-3-Mundo-4/blob/main/Miss%C3%A3o%20Pr%C3%A1tica/Doma/MP%203.png" alt="resultado 1" width="640" height="360">
 
 <br>
 
